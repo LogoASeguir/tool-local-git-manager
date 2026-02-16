@@ -97,7 +97,6 @@ nothing added to commit but untracked files present (use "git add" to track)
 <p align="center">
   <img src="assets/5.png" width="60%" alt="Local Git Manager Tool">
 </p>
-*Select and run Launcher*
 
 ## Adopting Existing Repositories
 
