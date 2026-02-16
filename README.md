@@ -93,19 +93,7 @@ nothing added to commit but untracked files present (use "git add" to track)
 ```
 
 ---
-## Demo
-<p align="center">
-  <img src="assets/2.png" width="60%" alt="Local Git Manager Tool">
-</p>
-*Project import to structure*
-<p align="center">
-  <img src="assets/3.png" width="60%" alt="Local Git Manager Tool">
-</p>
-*Global Venv initialization*
-<p align="center">
-  <img src="assets/4.png" width="60%" alt="Local Git Manager Tool">
-</p>
-*Generate Launcher*
+## Final Example
 <p align="center">
   <img src="assets/5.png" width="60%" alt="Local Git Manager Tool">
 </p>
