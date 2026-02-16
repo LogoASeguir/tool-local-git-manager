@@ -50,11 +50,21 @@ Each workspace is a full clone connected to the local `origin.git`.
 5. **Generate Launcher** → Open workspace in your editor.
 6. **Select and Run Launcher** → Opens project in editor 
 7. Open terminal (cmd) in workspace and run:
-
-
 start_session.bat
 
-
+## Demo
+<p align="center">
+  <img src="assets/2.png" width="60%" alt="Local Git Manager Tool">
+</p>
+<p align="center">
+  <img src="assets/3.png" width="60%" alt="Local Git Manager Tool">
+</p>
+<p align="center">
+  <img src="assets/4.png" width="60%" alt="Local Git Manager Tool">
+</p>
+<p align="center">
+  <img src="assets/5.png" width="60%" alt="Local Git Manager Tool">
+</p>
 This will:
 - Activate the global virtual environment
 - Display Git branch and status
