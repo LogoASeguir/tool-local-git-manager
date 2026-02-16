@@ -153,6 +153,7 @@ py local_git_manager.py
 
 ---
 
-Author
-Built by [Renato Pedrosa]
+### Author
+
+Built by [Renato Pedrosa]  
 Part of a growing ecosystem of Python-based developer tools.
