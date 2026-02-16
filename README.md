@@ -152,3 +152,7 @@ py local_git_manager.py
 - Provide reproducible dev sessions
 
 ---
+
+Author
+Built by [Renato Pedrosa]
+Part of a growing ecosystem of Python-based developer tools.
