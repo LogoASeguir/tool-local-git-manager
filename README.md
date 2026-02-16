@@ -9,10 +9,8 @@ This tool enforces a structured project layout using a local bare repository (`o
 
 ## UI Overview
 
-<p align="center">
-  <img src="assets/1.png" width="60%" alt="Local Git Manager Tool">
-</p>
-*GUI Overview*
+<p align="center">**First Impressions**</p>  
+![Workspace Layout](assets/1.png)
 
 ---
 
