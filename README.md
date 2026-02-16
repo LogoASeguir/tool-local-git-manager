@@ -1,5 +1,5 @@
-# Local Git Manager (tool)
-A lightweight local Git workspace manager for Windows.
+## Local Git Workspace Manager
+A lightweight Windows-based Git workspace manager designed for structured multi-branch development.
 
 This tool enforces a structured project layout using a local bare repository (`origin.git`) and isolated workspaces (separate clones per branch or task). It also supports a shared global virtual environment to prevent dependency sprawl and streamline development sessions.
 
@@ -8,7 +8,7 @@ This tool enforces a structured project layout using a local bare repository (`o
 <p align="center">
   <img src="assets/1.png" width="60%" alt="Local Git Manager Tool">
 </p>
-
+*GUI Overview*
 
 ---
 
@@ -52,19 +52,6 @@ Each workspace is a full clone connected to the local `origin.git`.
 7. Open terminal (cmd) in workspace and run:
 start_session.bat
 
-## Demo
-<p align="center">
-  <img src="assets/2.png" width="60%" alt="Local Git Manager Tool">
-</p>
-<p align="center">
-  <img src="assets/3.png" width="60%" alt="Local Git Manager Tool">
-</p>
-<p align="center">
-  <img src="assets/4.png" width="60%" alt="Local Git Manager Tool">
-</p>
-<p align="center">
-  <img src="assets/5.png" width="60%" alt="Local Git Manager Tool">
-</p>
 This will:
 - Activate the global virtual environment
 - Display Git branch and status
@@ -104,6 +91,23 @@ nothing added to commit but untracked files present (use "git add" to track)
 ```
 
 ---
+## Demo
+<p align="center">
+  <img src="assets/2.png" width="60%" alt="Local Git Manager Tool">
+</p>
+*Project import to structure*
+<p align="center">
+  <img src="assets/3.png" width="60%" alt="Local Git Manager Tool">
+</p>
+*Global Venv initialization*
+<p align="center">
+  <img src="assets/4.png" width="60%" alt="Local Git Manager Tool">
+</p>
+*Generate Launcher*
+<p align="center">
+  <img src="assets/5.png" width="60%" alt="Local Git Manager Tool">
+</p>
+*Select and run Launcher*
 
 ## Adopting Existing Repositories
 
