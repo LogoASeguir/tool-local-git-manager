@@ -3,6 +3,13 @@ A lightweight local Git workspace manager for Windows.
 
 This tool enforces a structured project layout using a local bare repository (`origin.git`) and isolated workspaces (separate clones per branch or task). It also supports a shared global virtual environment to prevent dependency sprawl and streamline development sessions.
 
+## UI Overview
+
+<p align="center">
+  <img src="assets/1.png" width="60%" alt="Local Git Manager Tool">
+</p>
+
+
 ---
 
 ## Features
