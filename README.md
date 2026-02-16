@@ -20,7 +20,7 @@ This tool enforces a structured project layout using a local bare repository (`o
 
 ---
 
-## 🏗 Managed Project Structure
+## Managed Project Structure
 ```
 <root>/
 my_project/
