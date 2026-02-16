@@ -1,4 +1,8 @@
 ## Local Git Workspace Manager
+![PyPI](https://img.shields.io/pypi/v/local-git-manager)
+![License](https://img.shields.io/github/license/LogoASeguir/tool-local-git-manager)
+![Issues](https://img.shields.io/github/issues/LogoASeguir/tool-local-git-manager)
+
 A lightweight Windows-based Git workspace manager designed for structured multi-branch development.
 
 This tool enforces a structured project layout using a local bare repository (`origin.git`) and isolated workspaces (separate clones per branch or task). It also supports a shared global virtual environment to prevent dependency sprawl and streamline development sessions.
