@@ -1,5 +1,5 @@
 ## Local Git Workspace Manager
-![PyPI](https://img.shields.io/pypi/v/local-git-manager)
+![Status](https://img.shields.io/badge/status-local-lightgrey)
 ![License](https://img.shields.io/github/license/LogoASeguir/tool-local-git-manager)
 ![Issues](https://img.shields.io/github/issues/LogoASeguir/tool-local-git-manager)
 
